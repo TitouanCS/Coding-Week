@@ -1,0 +1,22 @@
+- Modèle d'IA trouvant les paramètres optimaux ? 
+- Soif et comportement non aléatoire
+- Porblème avec la constante TAILLE dans les test
+- addAnimal remplacer x par une classe
+- problème sur les coordonnée, inversion x et y
+- config.py
+- fonction de test
+- Faire une doc du projet dans le README.txt
+    - Comment éxecuter
+    - fiwhier requirements
+    - commande
+- diagramme de classe // schéma de fonction de l'algo
+- déplacement intelligent
+- interface : faire deux fenêtre
+- boutton restart
+- interface input
+- deux chaque courve
+- eau + prédateur
+- REQUIREMENT
+- Faire les srpings
+- Faire une icone qui lance une requêre http vers notre git
+- Gérer les erreurs dans les entrées utilisateurs paramèttes
